@@ -1,0 +1,8 @@
+name = "SqraCore"
+uuid = "a9fe299e-2329-4adb-a199-17440bd42f02"
+authors = ["Sikorski <sikorski@zib.de>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
